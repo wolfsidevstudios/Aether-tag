@@ -1,0 +1,5 @@
+{
+  "name": "AetherTag - Invisible Watermarking",
+  "description": "A cryptographic security tool that embeds invisible, AI-generated signatures into image pixel data and filenames. Detectable only by this application.",
+  "requestFramePermissions": []
+}
